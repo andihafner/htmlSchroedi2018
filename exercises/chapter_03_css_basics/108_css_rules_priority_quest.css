@@ -1,0 +1,25 @@
+#eintrag-eins,
+#eintrag-drei {
+    color: red;
+    background: gray;
+}
+
+.erinnerung {
+    background-color: gray;
+}
+
+.wichtig {
+    background-color: red;
+}
+
+#eintrag-drei {
+    background-color: lightblue;
+}
+
+p {
+    color: green;
+}
+
+#eintrag-fuenf {
+    color: blue;
+}
