@@ -1,0 +1,32 @@
+/* some comment */
+body {
+    background-color: wheat;
+}
+
+span {
+    color: forestgreen;
+}
+
+span.spareTime {
+    color: whitesmoke;
+}
+
+#second-paragraph {
+    color: mediumslateblue;
+}
+
+.spareTime {
+    color: blue;
+}
+
+.work {
+    color: grey;
+}
+
+.love {
+    color: orangered;
+}
+
+.night {
+    background-color: black;
+}
